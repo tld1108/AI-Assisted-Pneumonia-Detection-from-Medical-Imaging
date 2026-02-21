@@ -1,5 +1,19 @@
-# Object file
-*.o
+# Virtual Environment
+venv/
+env/
 
-# Ada Library Information
-*.ali
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset
+data/
+
+# Model files
+*.pth
+*.pt
+*.h5
+
+masks/
+data/
+*.pth
